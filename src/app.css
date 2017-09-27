@@ -1,0 +1,20 @@
+input[type=text] {
+    height: 30px;
+    border: 1px solid #eee;
+    width: 80%;
+}
+button{
+    height: 35px;
+    background: white;
+    border: 1px solid #eee; 
+}
+ul {
+  list-style-type: none;
+    padding: 0px;
+}
+li{
+    padding: 5px;
+    margin: 10px;
+    width: 100%;
+    border: 1px solid #eee;
+}
